@@ -1,0 +1,3 @@
+tunnel: ARGOID
+credentials-file: /tmp/argo.json
+url: http://localhost:3000
