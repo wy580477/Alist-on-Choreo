@@ -1,3 +1,5 @@
+## Deprecated | 此项目已废弃
+
 ## 鸣谢
 
 - [alist-org/alist](https://github.com/alist-org/alist)
